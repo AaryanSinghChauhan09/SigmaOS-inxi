@@ -3,7 +3,7 @@ name = "SigmaOS-inxi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "inxi component"
+description = "SigmaOS SigmaOS-inxi component"
 upstream = []
 
 [contract]
